@@ -3,6 +3,7 @@
 This lab demonstrates how to harden a network using a pfSense firewall by blocking legacy and insecure protocols such as Telnet, FTP, and HTTP. 
 The objective is to reduce the attack surface by preventing plaintext communication, limiting lateral movement, and mitigating common exploitation techniques used by attackers.
 
-<img width="584" height="751" alt="Untitled Diagram(3)" src="https://github.com/user-attachments/assets/c88ffc18-d009-4199-b925-4650d9f68f74" />
+<img width="584" height="751" alt="Untitled Diagram" src="https://github.com/user-attachments/assets/594935b6-3b26-40c2-9d65-57d38f4363d0" />
+
 
 
