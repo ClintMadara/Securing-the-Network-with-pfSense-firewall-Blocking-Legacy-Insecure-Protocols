@@ -44,7 +44,7 @@ Once eveything was set up, was able to log in to pfSense admin portal by simply 
 I then added a new rule <br><br>
 <img width="1190" height="466" alt="Screenshot 2026-05-03 170812" src="https://github.com/user-attachments/assets/519fe8e8-72c5-4824-b340-d1ff33e24cca" /> <br><br>
 
-I cconfigure the rule as follows:<br>
+**I cconfigure the rule as follows:**<br>
 Action: Block <br>
 Protocol: ICMP <br>
 Source: LAN net <br>
