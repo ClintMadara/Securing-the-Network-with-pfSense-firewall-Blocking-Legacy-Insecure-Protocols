@@ -1,4 +1,4 @@
-<img width="405" height="449" alt="Screenshot 2026-05-03 160727" src="https://github.com/user-attachments/assets/74914fa1-7007-4355-bfed-ebc25513c072" /># Securing-the-Network-with-pfSense-firewall-Blocking-Legacy-Insecure-Protocols
+# Securing-the-Network-with-pfSense-firewall-Blocking-Legacy-Insecure-Protocols
 
 This lab demonstrates how to harden a network using a pfSense firewall by blocking legacy and insecure protocols such as Telnet, FTP, and HTTP. 
 The objective is to reduce the attack surface by preventing plaintext communication, limiting lateral movement, and mitigating common exploitation techniques used by attackers.
