@@ -26,8 +26,8 @@ One network interface is for the private network and the other network interface
 
 <img width="468" height="49" alt="Screenshot 2026-05-03 160020" src="https://github.com/user-attachments/assets/d42c8c33-b658-4988-9716-16ded08eea65" />
 
-I then assigned static IP addresses to the Domain controller and other VMs in the network.  
-Made sure that that pfsense is the default gateway for all machines in the network settings
+*I then assigned static IP addresses to the Domain controller and other VMs in the network.  
+*Made sure that that the firewall is the default gateway for all machines in the network settings
 <img width="405" height="449" alt="Screenshot 2026-05-03 160727" src="https://github.com/user-attachments/assets/4c49ac56-6a13-415f-b50d-8543ee220199" />  
 
 
