@@ -14,7 +14,7 @@ The objective is to reduce the attack surface by preventing plaintext communicat
   
 **Configuration Steps**  
 I first downloaded the pfsense ISO and created a VM for the pfSense appliance, during the setup phase, I added two NICs to the firewall 
-<img width="700" height="289" alt="image" src="https://github.com/user-attachments/assets/46115570-6f82-48aa-ae07-3561db85030b" />
+<img width="700" height="289" alt="image" src="https://github.com/user-attachments/assets/46115570-6f82-48aa-ae07-3561db85030b" />  
 
 
 I then configured WAN & LAN interfaces in VMware
