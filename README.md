@@ -24,8 +24,7 @@ One network interface is for the private network and the other network interface
 *I then assigned static IPs to the two NICs on the firewall  
 *The two IPs are on 24 bit subnets but different networks
 
-<img width="468" height="49" alt="Screenshot 2026-05-03 160020" src="https://github.com/user-attachments/assets/d42c8c33-b658-4988-9716-16ded08eea65" />  
-
+<img width="468" height="49" alt="Screenshot 2026-05-03 160020" src="https://github.com/user-attachments/assets/d42c8c33-b658-4988-9716-16ded08eea65" />  <br>
 
 
 *I then assigned static IP addresses to the Domain controller and other VMs in the network.  
