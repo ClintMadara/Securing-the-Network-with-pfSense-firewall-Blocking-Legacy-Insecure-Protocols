@@ -50,7 +50,12 @@ Protocol: ICMP <br>
 Source: LAN net <br>
 Destination: any <br><br>
 
-<img width="1073" height="692" alt="Screenshot 2026-05-03 173555" src="https://github.com/user-attachments/assets/86ec4bd9-dfdb-4300-949d-1bcad6f31371" />
+<img width="1073" height="692" alt="Screenshot 2026-05-03 173555" src="https://github.com/user-attachments/assets/86ec4bd9-dfdb-4300-949d-1bcad6f31371" /><br>
+
+I then verified that the firewall rule worked by trying to ping the firewall and all icmp packets failed <br>
+<img width="609" height="200" alt="Screenshot 2026-05-03 171213" src="https://github.com/user-attachments/assets/0a0f113b-c79b-4f29-9c2e-f64aad773d41" />
+
+
 
 
 
