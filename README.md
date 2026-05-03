@@ -3,11 +3,6 @@
 This lab demonstrates how to harden a network using a pfSense firewall by blocking legacy and insecure protocols such as Telnet, FTP, and HTTP. 
 The objective is to reduce the attack surface by preventing plaintext communication, limiting lateral movement, and mitigating common exploitation techniques used by attackers.
 
-Objectives
-*Deploy a working SIEM solution
-*Ingest and analyse endpoint logs
-*Simulate a failed login event
-
 🌐**Environment:**  
 *VMware  
 *pfSense  
