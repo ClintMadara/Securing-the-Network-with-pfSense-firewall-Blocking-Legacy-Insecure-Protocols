@@ -37,7 +37,16 @@ I also verified connectivity from firewall to machines
 <img width="713" height="405" alt="Screenshot 2026-05-03 162055" src="https://github.com/user-attachments/assets/9e016896-bb64-47af-819e-cd7faa1c77a1" />
 
 Once eveything was set up, was able to log in to pfSense admin portal by simply tying in is ip address (192.168.10.1) into the serach bar
-<img width="1012" height="670" alt="Screenshot 2026-05-03 160929" src="https://github.com/user-attachments/assets/d67456fc-57c0-4e82-b04c-1439eb367086" />
+<img width="1012" height="670" alt="Screenshot 2026-05-03 160929" src="https://github.com/user-attachments/assets/d67456fc-57c0-4e82-b04c-1439eb367086" />  
+
+🧠 Option 3 (Best practice / SOC-level): Use DNS filtering
+
+Use:
+
+pfSense DNS Resolver (Unbound)
+Or external filtering (like Pi-hole)
+
+👉 Block domains at DNS level = much cleaner
 
 
 
