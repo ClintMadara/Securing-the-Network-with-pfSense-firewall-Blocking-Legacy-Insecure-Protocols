@@ -29,7 +29,7 @@ One network interface is for the private network and the other network interface
 
 
 *I then assigned static IP addresses to the Domain controller and other VMs in the network.  
-*Made sure that that the firewall is the default gateway for all machines in the network settings
+*Made sure that that the firewall is the default gateway for all machines in the network settings <br>
 <img width="405" height="449" alt="Screenshot 2026-05-03 160727" src="https://github.com/user-attachments/assets/4c49ac56-6a13-415f-b50d-8543ee220199" /> <br>
 
 I then verified connectivity off all machines to the firewall <br> <br>
