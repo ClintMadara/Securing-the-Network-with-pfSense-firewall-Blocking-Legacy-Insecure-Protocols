@@ -41,6 +41,9 @@ Once eveything was set up, was able to log in to pfSense admin portal by simply 
 <img width="1012" height="670" alt="Screenshot 2026-05-03 160929" src="https://github.com/user-attachments/assets/d67456fc-57c0-4e82-b04c-1439eb367086" />  
 
 
+I then added a new rule <br>
+<img width="1190" height="466" alt="Screenshot 2026-05-03 170812" src="https://github.com/user-attachments/assets/519fe8e8-72c5-4824-b340-d1ff33e24cca" />
+
 
 
   
