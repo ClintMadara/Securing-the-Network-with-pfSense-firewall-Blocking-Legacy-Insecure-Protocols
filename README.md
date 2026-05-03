@@ -10,7 +10,7 @@ The objective is to reduce the attack surface by preventing plaintext communicat
 
 <img width="584" height="751" alt="Untitled Diagram(4)" src="https://github.com/user-attachments/assets/d25b034f-0cc8-411e-8f0b-80f654066008" />
 <br>
-**Configuration Steps**  <br>
+**Configuration Steps  <br>
 I first downloaded the pfsense ISO and created a VM for the pfSense appliance, during the setup phase, I added two NICs to the firewall 
 <img width="700" height="289" alt="image" src="https://github.com/user-attachments/assets/46115570-6f82-48aa-ae07-3561db85030b" />  
 
