@@ -8,7 +8,7 @@ The objective is to reduce the attack surface by preventing plaintext communicat
 *pfSense  
 *Windows 10, Windows server & Ubuntu  ISO
 
-<img width="584" height="751" alt="Untitled Diagram(4)" src="https://github.com/user-attachments/assets/d25b034f-0cc8-411e-8f0b-80f654066008" />
+<img width="584" height="751" alt="Untitled Diagram(4)" src="https://github.com/user-attachments/assets/d25b034f-0cc8-411e-8f0b-80f654066008" /> <br>
 <br>
 **Configuration Steps  <br>
 I first downloaded the pfsense ISO and created a VM for the pfSense appliance, during the setup phase, I added two NICs to the firewall 
