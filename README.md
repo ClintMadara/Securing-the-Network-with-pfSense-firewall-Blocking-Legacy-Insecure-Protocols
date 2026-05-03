@@ -36,7 +36,7 @@ I then verified connectivity off all machines to the firewall <br>
 <img width="994" height="511" alt="Screenshot 2026-05-03 161832" src="https://github.com/user-attachments/assets/0fb9e28a-2228-409a-84a3-4b91a5f464b7" />  
 
 I also verified connectivity from firewall to machines <br>
-<img width="713" height="405" alt="Screenshot 2026-05-03 162055" src="https://github.com/user-attachments/assets/9e016896-bb64-47af-819e-cd7faa1c77a1" />
+<img width="713" height="405" alt="Screenshot 2026-05-03 162055" src="https://github.com/user-attachments/assets/9e016896-bb64-47af-819e-cd7faa1c77a1" /> <br>
 
 Once eveything was set up, was able to log in to pfSense admin portal by simply tying in is ip address (192.168.10.1) into the serach bar <br> <br>
 <img width="1012" height="670" alt="Screenshot 2026-05-03 160929" src="https://github.com/user-attachments/assets/d67456fc-57c0-4e82-b04c-1439eb367086" />  
