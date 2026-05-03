@@ -17,5 +17,6 @@ I then configured WAN & LAN interfaces in VMware
 
 One network interface is for the private network and the other network interface  is for the public network
 
-<img width="291" height="40" alt="Screenshot 2026-05-03 155133" src="https://github.com/user-attachments/assets/44250aab-f8f4-45b0-bf4a-d6f110d9282f" />
+<img width="291" height="40" alt="Screenshot 2026-05-03 155133" src="https://github.com/user-attachments/assets/c73e7b0e-c058-4ab6-8537-a3a3f4511067" />
+
 
